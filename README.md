@@ -132,7 +132,7 @@ By combining growth metrics, sector analysis, and investor behavior, the dashboa
 * Predictive modeling using Python
 * Automation of data updates
 
-## 📣 Author
+##  Author
 
 **KANISHK BISHT**
 Stock Market Data Analysis Project
