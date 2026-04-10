@@ -39,6 +39,9 @@ The dataset consists of NIFTY 50 companies with the following variables:
 * **Profit Growth (%)**
 * **Price Growth (%)**
 
+  <img width="736" height="415" alt="Screenshot 2026-04-10 103923" src="https://github.com/user-attachments/assets/daa3ab10-9d24-4442-8d5b-fafc1c4400bc" />
+
+
 ### 2. Composite Performance Metric
 
 * **Total Growth Score**
@@ -52,6 +55,9 @@ The dataset consists of NIFTY 50 companies with the following variables:
   * DII
   * Public
   * Promoters
+
+<img width="575" height="409" alt="Screenshot 2026-04-10 103931" src="https://github.com/user-attachments/assets/a730da54-5f85-45a9-b791-00ad5a39697c" />
+
 
 ##  Analytical Framework
 
@@ -91,6 +97,9 @@ The dataset consists of NIFTY 50 companies with the following variables:
   * **Buy**
   * **Hold**
   * **Avoid**
+
+<img width="407" height="218" alt="Screenshot 2026-04-10 103943" src="https://github.com/user-attachments/assets/b02a9436-49f6-4126-886e-1e15ae1b672a" />
+
 
 ##  Dashboard Features
 
