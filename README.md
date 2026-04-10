@@ -144,4 +144,5 @@ By combining growth metrics, sector analysis, and investor behavior, the dashboa
 ##  Author
 
 **KANISHK BISHT**
+
 Stock Market Data Analysis Project
